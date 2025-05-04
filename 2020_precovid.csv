@@ -1,0 +1,8 @@
+Date,Event,Title,City,Gate,Buyrate,COVID
+2020-01-18,"UFC 246","McGregor vs. Cerrone","Las Vegas, Nevada",11100000,1350000,0
+2020-01-25,"UFC Fight Night","Blaydes vs. dos Santos","Raleigh, North Carolina",1300000,NULL,0
+2020-02-08,"UFC 247","Jones vs. Reyes","Houston, Texas",3550000,NULL,0
+2020-02-15,"UFC Fight Night","Anderson vs. Blachowicz 2","Rio Rancho, New Mexico",600000,NULL,0
+2020-02-22,"UFC Fight Night","Felder vs. Hooker","Auckland, New Zealand",1240000,NULL,0
+2020-02-29,"UFC Fight Night","Benavidez vs. Figueiredo","Norfolk, Virginia",400000,NULL,0
+2020-03-07,"UFC 248","Adesanya vs. Romero","Las Vegas, Nevada",2700000,NULL,0

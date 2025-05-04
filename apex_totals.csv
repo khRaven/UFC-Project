@@ -1,0 +1,51 @@
+Date,Event,Title,City,Gate,Buyrate,COVID
+3/14/2020,UFC Fight Night,Lee vs. Oliveira,"Brasilia, Brazil",NULL,NULL,1
+5/9/2020,UFC 249,Ferguson vs. Gaethje,"Jacksonville, Florida",NULL,700000,1
+5/13/2020,UFC Fight Night,Smith vs. Teixeira,"Jacksonville, Florida",NULL,NULL,1
+5/16/2020,UFC Fight Night,Overeem vs. Harris,"Jacksonville, Florida",NULL,NULL,1
+5/30/2020,UFC Fight Night,Woodley vs. Burns,"Las Vegas, Nevada",NULL,NULL,1
+6/6/2020,UFC 250,Nunes vs. Spencer,"Las Vegas, Nevada",NULL,NULL,1
+6/13/2020,UFC Fight Night,Eye vs. Calvillo,"Las Vegas, Nevada",NULL,NULL,1
+6/20/2020,UFC Fight Night,Blaydes vs. Volkov,"Las Vegas, Nevada",NULL,NULL,1
+6/27/2020,UFC Fight Night,Poirier vs. Hooker,"Las Vegas, Nevada",NULL,NULL,1
+7/11/2020,UFC 251,Usman vs. Masvidal,"Abu Dhabi, United Arab Emirates",NULL,1300000,1
+7/15/2020,UFC Fight Night,Kattar vs. Ige,"Abu Dhabi, United Arab Emirates",NULL,NULL,1
+7/18/2020,UFC Fight Night,Figueiredo vs. Benavidez 2,"Abu Dhabi, United Arab Emirates",NULL,NULL,1
+7/25/2020,UFC Fight Night,Whittaker vs. Till,"Abu Dhabi, United Arab Emirates",NULL,NULL,1
+8/1/2020,UFC Fight Night,Brunson vs. Shahbazyan,"Las Vegas, Nevada",NULL,NULL,1
+8/8/2020,UFC Fight Night,Lewis vs. Oleinik,"Las Vegas, Nevada",NULL,NULL,1
+8/15/2020,UFC 252,Miocic vs. Cormier 3,"Las Vegas, Nevada",NULL,500000,1
+8/22/2020,UFC Fight Night,Munhoz vs. Edgar,"Las Vegas, Nevada",NULL,NULL,1
+8/29/2020,UFC Fight Night,Smith vs. Rakic,"Las Vegas, Nevada",NULL,NULL,1
+9/5/2020,UFC Fight Night,Overeem vs. Sakai,"Las Vegas, Nevada",NULL,NULL,1
+9/12/2020,UFC Fight Night,Waterson vs. Hill,"Las Vegas, Nevada",NULL,NULL,1
+9/19/2020,UFC Fight Night,Covington vs. Woodley,"Las Vegas, Nevada",NULL,NULL,1
+9/26/2020,UFC 253,Adesanya vs. Costa,"Abu Dhabi, United Arab Emirates",NULL,700000,1
+10/3/2020,UFC Fight Night,Holm vs. Aldana,"Abu Dhabi, United Arab Emirates",NULL,NULL,1
+10/10/2020,UFC Fight Night,Moraes vs. Sandhagen,"Abu Dhabi, United Arab Emirates",NULL,NULL,1
+10/17/2020,UFC Fight Night,Ortega vs. The Korean Zombie,"Abu Dhabi, United Arab Emirates",NULL,NULL,1
+10/24/2020,UFC 254,Khabib vs. Gaethje,"Abu Dhabi, United Arab Emirates",NULL,675000,1
+10/31/2020,UFC Fight Night,Hall vs. Silva,"Las Vegas, Nevada",NULL,NULL,1
+11/7/2020,UFC Fight Night,Santos vs. Teixeira,"Las Vegas, Nevada",NULL,NULL,1
+11/14/2020,UFC Fight Night,Felder vs. dos Anjos,"Las Vegas, Nevada",NULL,NULL,1
+11/21/2020,UFC Fight Night,Smith vs. Clark,"Las Vegas, Nevada",NULL,NULL,1
+11/28/2020,UFC Fight Night,Curtis vs. Gooden,"Las Vegas, Nevada",NULL,NULL,1
+12/5/2020,UFC Fight Night,Hermansson vs. Vettori,"Las Vegas, Nevada",NULL,NULL,1
+12/12/2020,UFC 256,Figueiredo vs. Moreno,"Las Vegas, Nevada",NULL,NULL,1
+12/19/2020,UFC Fight Night,Thompson vs. Neal,"Las Vegas, Nevada",NULL,NULL,1
+2/6/2021,UFC Fight Night,Overeem vs. Volkov,"Las Vegas, Nevada",NULL,NULL,1
+2/13/2021,UFC 258,Usman vs. Burns,"Las Vegas, Nevada",NULL,NULL,1
+2/20/2021,UFC Fight Night,Blaydes vs. Lewis,"Las Vegas, Nevada",NULL,NULL,1
+2/27/2021,UFC Fight Night,Rozenstruik vs. Gane,"Las Vegas, Nevada",NULL,NULL,1
+3/6/2021,UFC 259,Blachowicz vs. Adesanya,"Las Vegas, Nevada",NULL,800000,1
+3/13/2021,UFC Fight Night,Edwards vs. Muhammad,"Las Vegas, Nevada",NULL,NULL,1
+3/20/2021,UFC Fight Night,Brunson vs. Holland,"Las Vegas, Nevada",NULL,NULL,1
+3/27/2021,UFC 260,Miocic vs. Ngannou 2,"Las Vegas, Nevada",NULL,NULL,1
+4/10/2021,UFC Fight Night,Vettori vs. Holland,"Las Vegas, Nevada",NULL,NULL,1
+4/17/2021,UFC Fight Night,Whittaker vs. Gastelum,"Las Vegas, Nevada",NULL,NULL,1
+5/1/2021,UFC Fight Night,Reyes vs. Prochazka,"Las Vegas, Nevada",NULL,NULL,1
+5/8/2021,UFC Fight Night,Rodriguez vs. Waterson,"Las Vegas, Nevada",NULL,NULL,1
+5/22/2021,UFC Fight Night,Font vs. Garbrant,"Las Vegas, Nevada",NULL,NULL,1
+6/5/2021,UFC Fight Night,Rozenstruik vs. Sakai,"Las Vegas, Nevada",NULL,NULL,1
+6/19/2021,UFC Fight Night,The Korean Zombie vs. Ige,"Las Vegas, Nevada",NULL,NULL,1
+6/26/2021,UFC Fight Night,Gane vs. Volkov,"Las Vegas, Nevada",NULL,NULL,1

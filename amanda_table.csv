@@ -1,0 +1,13 @@
+Date,Event,Title,City,Gate,Buyrate,COVID
+7/9/2016,UFC 200,Tate vs. Nunes,"Las Vegas, Nevada","$10,700,000 ",1009000,0
+12/30/2016,UFC 207,Nunes vs. Rousey,"Las Vegas, Nevada","$4,750,000 ",1100000,0
+9/9/2017,UFC 215,Nunes vs. Shevchenko 2,"Edmonton, Alberta, Canada","$2,030,000 ",100000,0
+5/12/2018,UFC 224,Nunes vs. Pennington,"Rio de Janeiro, Brazil",NULL,85000,0
+2018-12-29,UFC 232,Jones vs. Gustafsson 2,"Las Vegas, Nevada"," $2,100,000 ",,0
+2019-07-06,UFC 239,Jones vs. Santos,"Las Vegas, Nevada"," $6,100,000 ",,0
+2019-12-14,UFC 245,Usman vs. Covington,"Las Vegas, Nevada"," $4,000,000 ",,0
+6/6/2020,UFC 250,Nunes vs. Spencer,"Las Vegas, Nevada",NULL,NULL,1
+2021-03-06,UFC 259,Blachowicz vs. Adesanya,"Las Vegas, Nevada",,800000,1
+2021-12-11,UFC 269,Oliveira vs. Poirier,"Las Vegas, Nevada"," $8,000,000 ",500000,1
+7/30/2022,UFC 277,Pena vs. Nunes 2,"Dallas, Texas","$4,500,000 ",NULL,0
+6/10/2023,UFC 289,Nunes vs. Aldana,"Vancouver, British Columbia, Canada","$3,800,000 ",NULL,0
